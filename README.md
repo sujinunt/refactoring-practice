@@ -13,6 +13,8 @@ Each subdirectory contains some code that needs refactoring.
 Refactor timestamp.py.  2 or 3 refactorings are possible.
 1. Rename method name using snake case rule
 2. Rename arg to timestamps
+3. Delete else that not necessary
+4. Extract long if condition to small method
 
 
 ## `game_framework/gamelib.py`
